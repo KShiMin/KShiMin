@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KShiMin&theme=react&cache_seconds=18000&hide_border=true&border_radius=15&hide=issues,prs" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KShiMin&card_width=320&theme=react&cache_seconds=18000&hide_border=true&border_radius=15&hide=issues,prs" />
   </a>
 <!--   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KShiMin&layout=donut-vertical&langs_count=8&card_width=320" />
