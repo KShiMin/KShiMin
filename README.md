@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=9EE2FF&center=true&vCenter=true&multiline=true&width=500&height=300&lines=Hello%2C+I'm+Sh+Min~;Welcome+to+my+github+portfolio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9EE2FF&center=true&vCenter=true&multiline=true&width=500&height=300&lines=Hello%2C+I'm+Shi+Min~;Welcome+to+my+Github+portfolio!)](https://git.io/typing-svg)
 
 
 <!--
