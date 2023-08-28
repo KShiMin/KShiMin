@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <p>I'm Shi Min~ Currently still a diploma student</p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=400&color=9EE2FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+github+portfolio!;+" alt="Typing SVG" /></a>
 </div>
-<div align="center" width="600px>
+<div align="center" width="600px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KShiMin&theme=react&cache_seconds=18000&hide_border=true&border_radius=15&hide=issues,prs&count_private=true" />
   </a>
