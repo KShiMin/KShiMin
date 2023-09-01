@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
   <br>
   <!--Profile View Count-->
-<!--   <img src="https://komarev.com/ghpvc/?username=KShiMin" /> -->
+  <img src="https://komarev.com/ghpvc/?username=KShiMin" />
 </div>
 <br>
 <!--Area to display information about self-->
