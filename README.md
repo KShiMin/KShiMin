@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Area to display welcome information-->
+<!--
+**KShiMin/KShiMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<!--Area to display welcome information-->
+<!--
+**KShiMin/KShiMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<!--Area to display welcome information-->
 <div align="center" font-family=monospace>
   <h2>
     Hello! 👋🏻
@@ -30,50 +38,41 @@ Here are some ideas to get you started:
 <h3>About Me~</h3>
 <hr>
 <div>
-  <p>I am currently still a diploma student studying in the field of Data Analytics and Artificial Intelligence</p>
+  <p>Data-oriented Computing Science undergraduate with hands-on experience in data migration, SQL querying, Power BI dashboard development and descriptive analytics. Microsoft-certified Power BI Data Analyst with strong foundation in data cleaning, transformation and visualisation.</p>
   <ul>
-    <li>I'm currently interested in dealing with data and databases</li>
-    <li>In my free time, I like to dance and brush up on the fundamentals of languages and/or applications I am unsure of</li>
+    <li>🎓 Currently pursuing Bachelor of Science in Computing Science under SIT-UofG joint degree programme</li>
+    <li>💼 Seeking Data Analyst Internship from 31 August 2026 to 9 April 2027 in analytics, Business Intelligence or IT-related roles</li>
+    <li>📊 Strong interest in dealing with data and databases</li>
+    <li>💃 In my free time, I like to dance and brush up on the fundamentals of languages and/or applications I am unsure of</li>
     <li>
       📫 Reach Me via:
-      <a href="https://www.linkedin.com/in/shi-min-koh-634883207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/shimink/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="mailto: k.shimin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </li>
   </ul>
 </div>
 <br>
 <!--Area to display Technologies Learnt-->
-<h3>Technologies Learnt</h3>
+<h3>Technologies & Skills</h3>
 <hr>
 <div>
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,py" />
-  <br>
-  <h4>Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=flask,selenium" />
-  <h4>Analytics</h4>
-  <img src="https://skillicons.dev/icons?i=d3" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width=45 height=45 border="white"/>
+  <img src="https://skillicons.dev/icons?i=py,c,java" />
   <br>
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,cassandra" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra" />
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width=45 height=45 />
   <br>
-  <h4>Others</h4>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <h4>Analytics & BI Tools</h4>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width=45 height=45 />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width=60 height=45 />
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width=45 height=45 />
+  <br>
+  <h4>Cloud & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+  <br>
+  <h4>Other Tools</h4>
+  <img src="https://skillicons.dev/icons?i=figma,git" />
   <br>
 </div>
 <br>
-<!--Area to display Github Status-->
-<h3>~Github Status~</h3>
-<hr>
-<div align="center" width="600px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=KShiMin&theme=react&cache_seconds=18000&hide_border=true&border_radius=15&hide=issues,prs&count_private=true" />
-  </a>
-<!--   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KShiMin&layout=donut-vertical&langs_count=8&card_width=320" />
-  </a> -->
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KShiMin&layout=compact&langs_count=6&theme=react&cache_seconds=18000&hide_border=true&border_radius=15&count_private=true" />
-  </a>
-</div>
